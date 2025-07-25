@@ -9,6 +9,8 @@ Player flip two cards at a time to find matching emojis. Match all pairs to win!
 - Emoji-based card design
 - Win message when all pairs are found
 
+## Enjoy the game by visiting https://devanubhavgupta.github.io/cardFlipper/
+
 ## Technologies Used
 - HTML
 - CSS
